@@ -24,7 +24,7 @@ European road freight rates are opaque. Shippers negotiate contracts in the dark
 
 ## Why I built this
 
-I spent seven years working in Supply Chain digitalization at DB Schenker, Bosch, Siemens, and Delivery Hero. In that time I observed a persistent gap: even sophisticated shippers lacked accessible, structured benchmarking for European road freight rates. The tools that exist are either enterprise paywalled (Transporeon Rate Benchmarking, Xeneta Road) or too aggregated to be useful at the corridor level.
+I spent seven years working in Supply Chain digitalization at DB Schenker, Bosch, Siemens, and Delivery Hero. Recently, I observed a persistent gap: even sophisticated shippers lacked accessible, structured benchmarking for European road freight rates. The tools that exist are either enterprise paywalled (Transporeon Rate Benchmarking, Xeneta Road) or too aggregated to be useful at the corridor level.
 
 This project is my attempt to demonstrate what a lightweight, open, data-driven benchmarking framework could look like — and to validate the analytical approach against public data sources.
 
