@@ -199,11 +199,11 @@ Potential next steps for a production version:
 
 ## About
 
-Built by **[Your Name]** — logistics digitalisation professional with 7 years of experience at DB Schenker, Bosch, Siemens, and Delivery Hero. Background in transport operations, digital procurement, and supply chain analytics.
+Built by **Hemant Khajuria** — logistics strategy & digitalisation professional with 7 years of experience at DB Schenker, Bosch, Siemens, and Delivery Hero. Background in transport operations, digital procurement, and supply chain analytics.
 
 This project is part of a broader portfolio demonstrating applied data skills in the European logistics tech space.
 
-**Connect:** [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+**Connect:** [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/Hemant55-ginkgo)
 
 ---
 
