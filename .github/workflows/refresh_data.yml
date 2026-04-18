@@ -3,7 +3,10 @@ name: Weekly data refresh
 on:
   schedule:
     - cron: "0 6 * * 1"   # Every Monday at 6am UTC
-  workflow_dispatch:        # Also allows manual trigger from GitHub website
+  workflow_dispatch:        # Allows manual trigger from GitHub website
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   refresh:
